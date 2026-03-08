@@ -11,6 +11,6 @@ def hello():
     return "hello world"
 
 
-app.run()
+app.run(debug = True)
 
 
